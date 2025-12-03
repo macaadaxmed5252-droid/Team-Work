@@ -1,0 +1,273 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.header{
+    display: flex;
+    gap: 10px;
+    padding-top: 20px;
+}
+
+.header ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin-left: 40px;
+}
+
+.header button{
+    background-color: orangered;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    
+
+}
+
+
+.fa-industry{
+    margin-left: 400px;
+}
+
+.fa-phone{
+    margin-left: 430px;
+
+    
+    border-radius: 50px;
+    padding-top: 10px;
+}
+
+
+
+.hero-section img{
+    height: 700px;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: relative;
+    margin-top: 10px;
+}
+
+.hero-section h1{
+    position: absolute;
+    top: 310px;
+    left: 600px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: white;
+    font-size: 50px;
+
+}
+
+
+.hero-section button{
+    background-color: orangered;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    position: absolute;
+    left: 750px;
+    top: 450px;
+    
+
+}
+
+
+.third-section{
+    height: 210px;
+    width: 250px;
+    background-color: rgb(237, 237, 233);
+    font-family: sans-serif;
+    padding: 15px;
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 50px;
+    
+}
+
+
+.third-section i{
+    color: orangered;
+    font-size: 30px;
+}
+
+
+.third-section h1{
+    font-size: 25px;
+    padding-top: 30px;
+}
+
+
+.third-section p{
+    padding-top: 10px;
+}
+
+
+.third-section-flex{
+   display: flex;
+   gap: 80px;
+}
+
+
+.image1 img{
+    width: 300px;
+    height: 450px;
+    border-radius: 10px;
+    position: relative;
+    margin-left: 40px;
+    margin-top: 100px;
+
+}
+
+
+
+.image2 img{
+    width: 300px;
+    height: 450px;
+    border-radius: 10px;
+    position: absolute;
+    top: 1120px;
+    left: 240px;
+
+}
+
+
+.fourth-section{
+position: absolute;
+top: 1170px;
+left: 900px;
+
+}
+
+.fourth-section h1{
+    font-size: 40px;
+
+}
+
+.btn1 button{
+     background-color: orangered;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    margin-top: 30px;
+   
+
+
+}
+
+
+
+.btn2 button{
+     background-color: rgb(226, 223, 221);
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    color: black;
+    margin-top: 30px;
+
+}
+
+
+
+.btn3 button{
+     background-color: rgb(226, 223, 221);
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    color: black;
+    margin-top: 30px;
+
+}
+
+
+.buttons{
+    display: flex;
+    gap: 15px;
+}
+
+
+.img4 img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+
+.img4 button{
+     background-color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    color: black;
+    margin-top: 30px;
+    border: solid black 1px;
+
+}
+
+.fa-arrow-trend-up{
+    color: orangered;
+}
+
+.flex{
+    display: flex;
+}
+
+
+.text p{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-right: 20px;
+    margin-top: 40px;
+}
+
+.fa-circle-check{
+    color: orangered;
+}
+
+.text h5{
+    margin-top: 20px;
+    
+}
+
+
+
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #222;
+    border-radius: 10px;
+    color: white;
+    padding: 20px 0;
+    margin-top: 100px;
+}
+
+.contact ul, .service ul, .Quick ul, .media ul{
+    list-style: none;
+    padding: 0;
+   
+}
+
+.socials li{
+    display: inline;
+    margin-right: 10px;
+     gap: 20px;
+    
+}
+
+
+
+
+
+
