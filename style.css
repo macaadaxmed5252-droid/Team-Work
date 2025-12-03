@@ -6,39 +6,68 @@
 
 .header{
     display: flex;
-    gap: 10px;
-    padding-top: 20px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+    
 }
 
-.header ul{
+.list{
     display: flex;
+    gap: 20px;
     list-style: none;
-    gap: 30px;
-    margin-left: 40px;
+    font-size: 20px;
+    font-weight: normal;
+    
 }
 
-.header button{
-    background-color: orangered;
-    width: 150px;
-    height: 50px;
-    border: none;
+.list a{
+    text-decoration: none;
+    color: black;
+}   
+
+.title{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.title i{
+    padding-top: 5px;
+    border-radius: 50%;
+    padding: 10px   ;
+    font-size: 30px;
+    color: orangered;
+}
+
+.xaaayow button{
+    padding: 10px 20px;
     border-radius: 20px;
+    border: none;
+    background-color: orangered;
     color: white;
-    
-
 }
 
-
-.fa-industry{
-    margin-left: 400px;
+.yow{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding: 20px;
 }
 
-.fa-phone{
-    margin-left: 430px;
+.call{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
 
-    
-    border-radius: 50px;
-    padding-top: 10px;
+.call i{
+    padding-top: 5px;
+    background-color: orangered;
+    color: white;
+    border-radius: 50%;
+    padding: 10px   ;
 }
 
 
